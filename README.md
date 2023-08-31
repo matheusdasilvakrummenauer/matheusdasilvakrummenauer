@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**matheusdasilvakrummenauer/matheusdasilvakrummenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus da silva krummenauer 
 
-Here are some ideas to get you started:
+- Eu estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaScripr
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entra em contato comigo 📫
+
+- Matheus.krummenauer@escola.pr.gov.br
+- 
+- @Matheussilvag2022
